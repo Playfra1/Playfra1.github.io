@@ -17,7 +17,8 @@ Discord ---> playfra
 Telegram ---> @Playfra
 
 
-Legend:
+
+Map legend:
 
 Yellow ---> Recent Ukrainian advances
 

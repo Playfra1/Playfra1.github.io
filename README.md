@@ -12,10 +12,10 @@ This map is also available on Playfra1.github.io
 As of now, I am the only one working on this map. Despite this, updates should be coming in every day, barring unforseen events.
 
 If you think that i missed something here, or just ask a question or comment, message me anytime on:
+
 Discord ---> playfra
 
 Telegram ---> @Playfra
-
 
 
 Map legend:

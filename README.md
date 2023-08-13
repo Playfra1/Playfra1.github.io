@@ -13,10 +13,19 @@ As of now, I am the only one working on this map. Despite this, updates should b
 
 If you think that i missed something here, or just ask a question or comment, message me anytime on:
 Discord ---> playfra
+
 Telegram ---> @Playfra
+
+Legend:
+
 Yellow ---> Recent Ukrainian advances
+
 Grey ---> Grey zone, not controlled by anyone
+
 Red ---> Russian controlled territory
+
 Orange ---> Trenches and defensive positions
+
 Blue boxes ---> Ukrainian positions
+
 Red boxes ---> Russian positions

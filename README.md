@@ -16,11 +16,19 @@ Discord ---> playfra
 Telegram ---> @Playfra
 
 Map legend:
-Dark yellow --->
+
+Dark yellow ---> Recent Ukrainian advancements
+
 Yellow ---> Ukrainian advancements in the June counteroffensive
+
 Grey ---> Grey zone, not controlled by anyone or contested
+
 Red ---> Russian controlled territory
+
 Orange ---> Trenches, defensive positions and fortifications
+
 Blue boxes ---> Ukrainian positions
+
 Black boxes ---> Unknown party positions / Images
+
 Red boxes ---> Russian positions
